@@ -7,16 +7,16 @@ Meu nome é Eduardo Betti, sou um Programador Front-end, apaixonado por transfor
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript">
 <br>
 
-### Confira meu portfólio:
+### Confira meu portfólio: :book:
 - <a href="https://eduardobetti.netlify.app/"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=logoColor=white" alt="logo-portfolio"></a>
 <br>
 
-### Você pode entrar em contato comigo pelos links abaixo:
+### Você pode entrar em contato comigo pelos links abaixo: :speech_balloon:
 - <a href="mailto:esbetti92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail"></a>
 - <a href="https://wa.me/+5519994277047"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-whatsapp"></a>
 <br>
 
-### Conecte-se comigo também nas redes sociais:
+### Conecte-se comigo também nas redes sociais: :smile:
 - <a href="https://www.linkedin.com/in/eduardo-betti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>
 - <a href="https://www.instagram.com/dev.eduardo.betti"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"></a>
 <br>
