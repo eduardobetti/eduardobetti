@@ -8,17 +8,17 @@ Meu nome é Eduardo Betti, sou um Programador Front-end, apaixonado por transfor
 <br>
 
 ### Confira meu portfólio:
-- <a href="https://eduardobetti.netlify.app/" target="blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=logoColor=white" alt="logo-portfolio"></a>
+- <a href="https://eduardobetti.netlify.app/"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=logoColor=white" alt="logo-portfolio"></a>
 <br>
 
 ### Você pode entrar em contato comigo pelos links abaixo:
-- <a href="mailto:esbetti92@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail"></a>
-- <a href="https://wa.me/+5519994277047" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-whatsapp"></a>
+- <a href="mailto:esbetti92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail"></a>
+- <a href="https://wa.me/+5519994277047"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-whatsapp"></a>
 <br>
 
 ### Conecte-se comigo também nas redes sociais:
-- <a href="https://www.linkedin.com/in/eduardo-betti" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>
-- <a href="https://www.instagram.com/dev.eduardo.betti" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"></a>
+- <a href="https://www.linkedin.com/in/eduardo-betti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>
+- <a href="https://www.instagram.com/dev.eduardo.betti"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"></a>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobetti)](https://github.com/anuraghazra/github-readme-stats)
